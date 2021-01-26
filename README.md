@@ -14,8 +14,13 @@
 
     ````
     assignment3/
-    ├── .travis.yml
+    ├── .github
+    |   └── workflows
+    |       └── main.yml
+    ├── .gitignore
+    ├── environment.yml
     ├── README.md
+    ├── LICENSE
     ├── test.py
     ├── files1/
     |   ├── lorem1.txt
