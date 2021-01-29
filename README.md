@@ -1,5 +1,9 @@
 # Assignment 3
 
+The aim of this assignment is to continue familiarization basic Unix commands, in particular the `find` command. I've recorded a YouTube video that once again shows the process of accepting and cloning the assignment as well as describes the expectations for completion:
+
+https://youtu.be/AgeHNUUuPWY
+
 ## Instructions
 
  1. In the repository, you will find a directories `files1` and `files2` with a set of subdirectories and files inside them. Use the Unix `find` command to locate the following files when run from the repository's root directory (this is not the files system root `/`)
